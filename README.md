@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="etc/chonkat.png" />
+  <img src="https://raw.githubusercontent.com/rowland-208/chonker/main/etc/chonkat.png" />
 </p>
 
 Chonker is a lightweith python package that makes it easy to chunkify your data.
